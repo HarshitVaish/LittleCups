@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Little Cups</string>
+    <string name="new_game">New Game</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+
+</resources>
